@@ -23,7 +23,7 @@
 #         - Description 2.
 
 - title: Education
-  type: time_table
+  type: time_table_old_adjusted
   contents:
 #    - title: PhD/DPhil
 #      institution: University of Oxford; University of Cambridge; Imperial College London
