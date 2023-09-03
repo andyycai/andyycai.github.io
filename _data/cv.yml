@@ -31,9 +31,9 @@
 #      description:
 #        - Description 1.
 #        - Description 2.
-    - title: MSc in Mathematical Sciences (Part C Mathematics and Statistics)
+    - title: MSc in Mathematical Sciences (FHS of Mathematics and Statistics Part C)
       institution: University of Oxford
-      department: Mathematical Institute & Department of Statistics
+      department: Mathematical Institute | Department of Statistics
       year: 2022 - 2024
       description:
         - Suspension of status on medical grounds in 2022/23.
@@ -54,7 +54,7 @@
       description:
         - Prize awarded to the best students at the university.
     - title: Institute of Mathematics and its Applications Prize
-      institution: Queen Mary University of London & Institute of Mathematics and its Applications (IMA)
+      institution: Queen Mary University of London | Institute of Mathematics and its Applications (IMA)
       year: 2021/22
       description:
         - Prize awarded to the best two finalist students at the School of Mathematical Sciences.
