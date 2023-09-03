@@ -31,17 +31,19 @@
 #      description:
 #        - Description 1.
 #        - Description 2.
-    - title: MSc in Mathematical Sciences (Part C of MMath in Mathematics and Statistics)
+    - title: MSc in Mathematical Sciences (Part C Mathematics and Statistics)
       institution: University of Oxford
+      department: Mathematical Institute & Department of Statistics
       year: 2022 - 2024
       description:
-        - Suspension of status on medical grounds in 2022/23
-    - title: BSc (Hons) in Mathematics and Statistics
+        - Suspension of status on medical grounds in 2022/23.
+    - title: BSc (Hons) in Mathematical Sciences (Mathematics and Statistics stream)
       institution: Queen Mary University of London
+      department: School of Mathematical Sciences
       year: 2019 - 2022
       description:
-        - First Class Honours (Top 1%)
-        - Dissertation entitled 'Record Statistics of Stock Prices' supervised by <a href='https://www.ucl.ac.uk/~ucahrh0/'>Dr Rosemary J. Harris</a>
+        - **Classification:** First Class Honours (Top 1%)
+        - **Dissertation:** ***'Record Statistics for Stock Prices'***, supervised by <a href='https://www.ucl.ac.uk/~ucahrh0/'>Dr Rosemary J. Harris</a>
 
 - title: Honours and Awards
   type: time_table
@@ -50,13 +52,13 @@
       institution: Queen Mary University of London
       year: 2021/22
       description:
-        - Prize awarded to the best students at the university
+        - Prize awarded to the best students at the university.
     - title: Institute of Mathematics and its Applications Prize
+      institution: Institute of Mathematics and its Applications (IMA)
       institution: Queen Mary University of London
-      department: Institute of Mathematics and its Applications (IMA)
       year: 2021/22
       description:
-        - Prize awarded to the best two finalist students at the School of Mathematical Sciences
+        - Prize awarded to the best two finalist students at the School of Mathematical Sciences.
 
 
 
