@@ -12,7 +12,7 @@ nav_order: 2
 ---
 
 **Majority Opinion Diffusion Models** supervised by <a href="https://comp.anu.edu.au/people/ahad-zehmakan/">Dr Ahad N. Zehmakan </a>
-<div class="row justify-content-sm-start">
+<div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         - This project will mainly focus on investigating the majority model (and its variants) on the random and expander graphs and different graph models which mimic the real-world social networks.
     </div>
