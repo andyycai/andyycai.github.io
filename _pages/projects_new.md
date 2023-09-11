@@ -27,7 +27,7 @@ nav_order: 2
 ---
 
 **Majority Opinion Diffusion Models** supervised by <a href="https://comp.anu.edu.au/people/ahad-zehmakan/">Dr Ahad N. Zehmakan </a>
-<div class="row justify-content-sm-start">
+<div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         <ul>
           <li>This project will mainly focus on investigating the majority model (and its variants) on the random and expander graphs and different graph models which mimic the real-world social networks.</li>
@@ -41,11 +41,13 @@ nav_order: 2
 
 **Majority Opinion Diffusion Models** supervised by <a href="https://comp.anu.edu.au/people/ahad-zehmakan/">Dr Ahad N. Zehmakan </a>
 <div class="row justify-content-sm-start">
-    <ul>
-      <li>This project will mainly focus on investigating the majority model (and its variants) on the random and expander graphs and different graph models which mimic the real-world social networks.</li>
-      <li>The goal of this project is to study the following questions, from both a theoretical and practical perspective: 1. Stabilisation time and period of the majority process; 2. Minimum size of a winning set; 3. Random initial colouring.</li>
-      <li>To be continued...</li>
-    </ul>
+    <div class="col-sm-10 mt-3 mt-md-0">
+        <ul>
+          <li>This project will mainly focus on investigating the majority model (and its variants) on the random and expander graphs and different graph models which mimic the real-world social networks.</li>
+          <li>The goal of this project is to study the following questions, from both a theoretical and practical perspective: 1. Stabilisation time and period of the majority process; 2. Minimum size of a winning set; 3. Random initial colouring.</li>
+          <li>To be continued...</li>
+        </ul>
+    </div>
 </div>
 
 ---
